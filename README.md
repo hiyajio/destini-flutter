@@ -1,15 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Destini
 
+An app that allows you to choose your own adventure game like Bandersnatch.
 
-# Destini 🤔
-
-## Our Goal
-
-In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Destini](https://user-images.githubusercontent.com/50670255/69896967-40c24000-1313-11ea-9ada-22070d2014fd.gif)
