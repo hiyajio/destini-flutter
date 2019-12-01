@@ -1,4 +1,4 @@
-# Destini
+# Destini - Flutter
 
 An app that allows you to choose your own adventure game like Bandersnatch.
 
