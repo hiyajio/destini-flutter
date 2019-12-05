@@ -1,4 +1,4 @@
-# Destini - Flutter
+# Destini :crystal_ball: Flutter
 
 An app that allows you to choose your own adventure game like Bandersnatch.
 
